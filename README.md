@@ -12,7 +12,7 @@ Startup Name Generator in SpringBoot. Check It Out - http://nameyoursillystartup
 ## Getting Started
 
 Clone the project and run locally on IntelliJ.    
-<I'm too lazy this time. All PR's will be excepted for this.>
+<I'm too lazy this time. All PR's will be accepted for this.>
 
 
 ## Contribute 
